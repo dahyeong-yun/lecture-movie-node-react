@@ -2,8 +2,8 @@ import React, { useEffect, useState } from 'react'
 import { FaCode } from "react-icons/fa";
 import { API_URL, API_KEY, IMAGE_BASE_URL } from '../../Config'
 import { Row } from 'antd'
-import MainImage from './Section/MainImage';
-import GridCards from '../common/GridCards';
+import MainImage from './Sections/MainImage'
+import GridCards from '../common/GridCards'
 
 function LandingPage() {
 
