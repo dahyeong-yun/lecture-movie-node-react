@@ -28,7 +28,7 @@ function MovieDetail(props) {
             />
             {/* Body */}
 
-            <div style={{ width: '85%', margin: '1rem auth' }}>
+            <div style={{ width: '85%', margin: '1rem auto' }}>
                 {/* Movie Info */}
                 <MovieInfo
                     movie={Movie}                
